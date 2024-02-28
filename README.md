@@ -7,8 +7,6 @@ I'm a software engineer with expertise in HTML, CSS, and JavaScript. Welcome to 
 - 💻 Software Engineer
 - 🌐 Web Development Enthusiast
 - 🎓 Have an excellent command
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HassanHabib&theme=dark&show_icons=true)
-
 
 
 ## Skills
