@@ -1,4 +1,4 @@
-https://github.com/mabdullahjs/mabdullahjs/blob/master/images/background.png?raw=true
+
 # Hello, I'm [Hassan Habib] 👋
 
 I'm a software engineer with expertise in HTML, CSS, and JavaScript. Welcome to my GitHub profile! Here you'll find some of my projects and contributions.
