@@ -25,7 +25,7 @@ Here are some of my highlighted projects:
 
 ## Contact Me
 
-- LinkedIn: [https://www.linkedin.com/in/hassan-habib-muhammad-habib-68a197286/](link-to-linkedin-profile)
+- LinkedIn: [https://www.linkedin.com/in/hassan-habib-muhammad-habib-68a197286/]
 - Email: mhassanmhabib1995@gmail.com
 
 Feel free to reach out if you have any questions or want to collaborate on a project!
