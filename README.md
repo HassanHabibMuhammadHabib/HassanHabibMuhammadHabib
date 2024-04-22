@@ -1,4 +1,4 @@
-
+<img src="./image/background.png" alt="image" width="820px" height="260px">
 # Hello, I'm [Hassan Habib] 👋
 
 I'm a software engineer with expertise in HTML, CSS, and JavaScript. Welcome to my GitHub profile! Here you'll find some of my projects and contributions.
